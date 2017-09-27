@@ -1,0 +1,1 @@
+web: gunicorn credit_card_validator.wsgi --log-file -
