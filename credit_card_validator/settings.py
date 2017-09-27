@@ -25,7 +25,7 @@ SECRET_KEY = 'yob+(l7je2r63p3m4+g(44xysrvc1m3ris!!cbitz5!o8y^9p4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['credit-card-validator.herokuapp.com']
 
 
 # Application definition
