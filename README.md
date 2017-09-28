@@ -22,5 +22,5 @@ A valid credit card from ABCD Bank has the following characteristics:
 2. `pip install -r requirements.txt`
 3. `python manage.py runserver`
 
-##Hosted
+## Hosted
 [https://credit-card-validator.herokuapp.com/](https://credit-card-validator.herokuapp.com/)
